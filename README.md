@@ -2,7 +2,7 @@
 
 
 ---
-!(https://www.varomoney.com/wp-content/uploads/2020/06/NewBrand_Press_img-1-1536x864.png)[Varo Image]
+![Varo Bank Image](https://www.varomoney.com/wp-content/uploads/2020/06/NewBrand_Press_img-1-1536x864.png)
 
 ## Overview and Origin
 
